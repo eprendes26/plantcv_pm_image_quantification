@@ -1,0 +1,13 @@
+name: plantcv
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - psutil
+  - os
+  - matplotlib
+  - sys
+  - csv
+  - plantcv
+  - IPython.display
+  - PIL
