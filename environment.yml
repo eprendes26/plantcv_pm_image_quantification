@@ -5,7 +5,7 @@ channels:
   - defaults
 dependencies:
   - plantcv
-  - opencv-python
+  - opencv
   - pillow
   - numpy
   - ipython
