@@ -1,5 +1,7 @@
 name: plantcv-environment
-
+channels:
+  - conda-forge
+  - default
 dependencies:
   - python=3.4
   - numpy
