@@ -8,6 +8,6 @@ dependencies:
   - toolz
   - matplotlib
   - pandas
-  - opencv-python
+  - opencv
   - pip:
     - git+https://github.com/danforthcenter/plantcv.git
