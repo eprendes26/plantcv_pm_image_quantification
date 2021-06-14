@@ -1,0 +1,11 @@
+name: plantcv-environment
+
+dependencies:
+  - python=3.4
+  - numpy
+  - toolz
+  - matplotlib
+  - pandas
+  - opencv-python
+  - pip:
+    - git+https://github.com/danforthcenter/plantcv.git
