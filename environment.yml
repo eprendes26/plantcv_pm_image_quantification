@@ -12,7 +12,7 @@ dependencies:
   - dask
   - dask-jobqueue
   - nb_conda
-  - opencv-python==3.4.2.17
+  - opencv
   - pip:
     - git+https://github.com/danforthcenter/plantcv.git
 channels:
