@@ -5,9 +5,8 @@ channels:
   - defaults
 dependencies:
   - plantcv
-  - cv2
+  - opencv-python
   - pillow
   - numpy
-  - csv
-  - IPython.display
+  - ipython
 prefix: C:\Users\ericj\miniconda3\envs\plantcv
